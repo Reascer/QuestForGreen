@@ -1,1 +1,28 @@
 # QuestForGreen
+
+
+idée de Léon 
+QuestForGreen : (nom a changer plus tard)
+
+Description : 
+Application écologique qui attribue des quêtes écologiques ( recyclage, etc ). En effectuant les quêtes on obtient de l'expérience et des points. 
+
+Les différents type de quêtes :
+journalière
+hebdomadaires
+mensuel
+principale 
+	
+	Exemple de quêtes : “Apportez des sac réutilisable pour faire ses courses”
+			          “Recycler un stylo ( ou je sais pas quoi )”
+
+Les quêtes sont données par différent PNJ sur l’application, il y a un PNJ pour chaque action écologique. ( recyclage, consommation … etc ). 
+
+Un PNJ principal sert de guide et donne les quêtes principales pour accompagner les nouveaux utilisateurs.
+
+Le but de l’application est de faciliter et accompagner les personnes dans leurs transformations écologiques. Elle serait aussi un moyen d'initier une personne à avoir une vie plus écologique.
+
+Question :
+	
+	Application similaire:
+https://90jours.org/
